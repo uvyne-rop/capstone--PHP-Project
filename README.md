@@ -119,7 +119,7 @@ Open your browser and visit:
 
 http://localhost:8000
 
-5. Minimal Working Example
+## 5. Minimal Working Example
 What the Example Does
 
 Runs a PHP server locally
