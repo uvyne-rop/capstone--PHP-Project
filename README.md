@@ -1,4 +1,4 @@
-# Prompt-Powered Kickstart: Building a Beginner’s Toolkit for PHP
+ Building a Beginner’s Toolkit for PHP
 
 ##  Overview
 This project is a beginner-friendly PHP toolkit created using Generative AI to help new developers understand PHP through hands-on practice. It demonstrates how PHP works in real-world web development by building a simple web application that handles HTTP requests and user input.
