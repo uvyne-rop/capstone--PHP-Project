@@ -23,13 +23,21 @@ This project is a beginner-friendly PHP toolkit created using Generative AI to h
 
 ##  Project Structure
 php-beginner-toolkit/
+
 ├── README.md
+
 ├── prompts-journal.md
+
 ├── docs/
+
 │ └── GUIDE.md
+
 ├── example-app/
+
 │ ├── index.php
+
 │ ├── form.php
+
 │ └── process.php
 
 
